@@ -1,3 +1,10 @@
+<?php
+
+// require_once '../app/init.php';
+
+// $app = new App();
+
+?>
 <!DOCTYPE html>
 <!--
 	Solitude by TEMPLATE STOCK
@@ -11,7 +18,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Solitude Free Responsive Template | Template Stock</title>
+    <title>Donated.com - Gapai Impian Kamu</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.css" rel="stylesheet">
@@ -44,7 +51,7 @@
 	          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
 	          	<i class="el-icon-lines"></i>
 	          </button>
-	          <a class="navbar-brand hidden-xs hidden-sm" href="#home"><h1> Solitude</h1></a>
+	          <a class="navbar-brand hidden-xs hidden-sm" href="#home"><h1>Donated</h1></a>
 	        </div>
 	        <div class="navbar-collapse collapse">
 	          	<ul class="nav navbar-nav">
@@ -66,10 +73,10 @@
 		<!-- ==== HEADERWRAP ==== -->
 	    <div id="headerwrap" id="home" name="home">
 			<header class="clearfix">
-	  		 		<h1 class="animated bounceIn">Template Stock</h1>
-	  		 		<p class="animated slideInLeft">Let Us Help You Be Something Awesome.</p>
-	  		 		<p class="animated slideInRight">We Are Here For You.</p>
-	  		 		<a href="#about" class="btn homebtn smoothScroll">Learn More <i class="el-icon-chevron-down homeicon"></i></a>
+	  		 		<h1 class="animated bounceIn">Gapai Impian Anda</h1>
+	  		 		<p class="animated slideInLeft">Daftarkan diri anda untuk mendapatkan beasiswa</p>
+	  		 		<p class="animated slideInRight">Di sini kami ada untukmu</p>
+	  		 		<a href="#about" class="btn homebtn smoothScroll">Pelajari<i class="el-icon-chevron-down homeicon"></i></a>
 	  		</header>	    
 	    </div><!-- /headerwrap -->
 
@@ -82,8 +89,8 @@
 							<i class="icon el-icon-time"></i>
 						</div>
 						<div class="col-md-9 fade-up service-info">
-							<h2>Were Fast</h2>
-							<p>Offending belonging promotion provision an be oh consulted ourselves it. Blessing welcomed ladyship she met humoured sir breeding her. Six curiosity day assurance bed necessary.</p>
+							<h2>Pelayanan Cepat</h2>
+							<p>Kami berusaha semaksimal mungkin untuk segera menyeleksi dan memberikan informasi lebih lanjut terkait pendaftaran beasiswa.</p>
 						</div>
 					</div>
 						
@@ -92,8 +99,8 @@
 							<i class="icon el-icon-star"></i>
 						</div>
 						<div class="col-md-9 fade-up service-info">
-							<h2>Were The Best</h2>
-							<p>Certain but she but shyness why cottage. Gay the put instrument sir entreaties affronting. Pretended exquisite see cordially the you.</p>
+							<h2>Pemilihan Terbaik</h2>
+							<p>Kami akan memilih siswa/mahasiswa yang terbaik untuk mendapatkan beasiswa sesuai dengan kondisi hidup pendaftar.</p>
 						</div>
 					</div>
 					
@@ -103,8 +110,8 @@
 						</div>
 						<div class="col-md-9 fade-up service-info">
 							<div class="fade-up">
-								<h2>Hire Us Today</h2>
-								<p>Parlors men express had private village man. Discovery moonlight recommend all one not. Indulged to answered prospect it bachelor is he bringing shutters. Pronounce forfeited mr direction oh he dashwoods ye unwilling.</p>
+								<h2>Penyeleksi Berpengalaman</h2>
+								<p>Penyeleksian beasiswa dilakukan oleh selektor yang berpengalaman, professional dan tersertifikasi sehingga data data yang terinput akan diseleksi dengan sebenar-benarnya.</p>
 							</div>
 						</div>
 					</div>	
@@ -115,15 +122,15 @@
 		<!-- ==== ABOUT ==== -->
 		<div class="container" id="about" name="about">
 			<div class="row white">
-				<h1 class="fade-down centered">A LITTLE ABOUT US</h1>
+				<h1 class="fade-down centered">Tentang Kami</h1>
 				<hr>
 				
 				<div class="fade-up col-md-6">
-					<p>Insipidity the sufficient discretion imprudence resolution sir him decisively. Proceed how any engaged visitor. Explained propriety off out perpetual his you. Feel sold off felt nay rose met you. We so entreaties cultivated astonished is. Was sister for few longer mrs sudden talent become. Done may bore quit evil old mile. If likely am of beauty tastes. </p>
+					<p><b>Donated.com</b> didirikan oleh PT Solusi Maju Indonesia yang bertujuan untuk memajukan kualitas generasi muda Indonesia. Donasi yang terkumpulkan merupakan sebagian upah dari Founder Donated.com dan beberapa karyawan yang berbuka hati untuk berbagi demi kecerdasan bangsa Indonesia.</p>
 				</div><!-- col-md-6 -->
 				
 				<div class="fade-up col-md-6">
-					<p>Arrived totally in as between private. Favour of so as on pretty though elinor direct. Reasonable estimating be alteration we themselves entreaties me of reasonably. Direct wished so be expect polite valley. Whose asked stand it sense no spoil to. Prudent you too his conduct feeling limited and. Side he lose paid as hope so face upon be. Goodness did suitable learning put. </p>
+					<p>Yang membedakan <b>Donated.com</b> dengan program beasiswa lain adalah, selain mendapatkan dana beasiswa selama satu tahun, Beswan Djarum (sebutan bagi penerima program Djarum Beasiswa Plus) juga mendapatkan berbagai macam pelatihan soft skills (keterampilan lunak) mengembangkan wawasan kebangsaan, membentuk karakter serta melatih kepemimpinan. </p>
 				</div><!-- col-md-6 -->
 			</div><!-- row -->
 		</div><!-- container -->
@@ -132,23 +139,23 @@
 		<!-- ==== SECTION DIVIDER2 -->
 		<section class="section-divider textdivider divider2">
 			<div class="container">
-				<h1 class="fade-down">HERE IS THE PROOF</h1>
+				<h1 class="fade-down">STATISTIKA PENGELUARAN</h1>
 				<hr>
 				<div class="col-md-3">
 					<span class="counter">100</span>
-					<span class="counter-desc">Percent Focus</span>
+					<span class="counter-desc">Persen Fokus</span>
 				</div>
 				<div class="col-md-3">
-					<span class="counter">1000</span>
-					<span class="counter-desc">Minimum Saving</span>
+					<span class="counter">15217</span>
+					<span class="counter-desc">Pendaftar</span>
 				</div>
 				<div class="col-md-3">
-					<span class="counter">10000</span>
-					<span class="counter-desc">Ideas</span>
+					<span class="counter">1271</span>
+					<span class="counter-desc">Pelajar Terbantu</span>
 				</div>
 				<div class="col-md-3">
-					<span class="counter">100000</span>
-					<span class="counter-desc">Profit</span>
+					<span class="counter">107</span>
+					<span class="counter-desc">Milyar Dana Keluar</span>
 				</div>
 			</div><!-- container -->
 		</section><!-- section -->
