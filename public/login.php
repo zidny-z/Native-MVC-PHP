@@ -70,44 +70,20 @@
                 <div class="panel-body">
                 <form method="POST" >
                     <div class="form-group">
-                        <label for="username">Nama</label>
+                        <label for="username">Username</label>
                         <input type="text" name="username" id="username" class="form-control" required/>
                     </div>
                     <div class="form-group">
-                        <label for="nim">NIM</label>
-                        <input type="text" name="nim" id="nim" class="form-control" required/>
+                        <label for="password">Password</label>
+                        <input type="password" name="password" id="password" class="form-control" required/>
                     </div>
-					<div class="form-group">
-                        <label for="prodi">Program Studi</label>
-                        <input type="text" name="prodi" id="prodi" class="form-control" required/>
-                    </div>
-					<div class="form-group">
-                        <label for="ptnpts">Perguruan Tinggi</label>
-                        <input type="text" name="ptnpts" id="ptnpts" class="form-control" required/>
-                    </div>
-					<div class="form-group">
-                        <label for="nohp">Nomor HP</label>
-                        <input type="number" name="nohp" id="nohp" class="form-control" required/>
-                    </div>
-					<div class="form-group">
-                        <label for="cv">Curiculum Vite (Jpeg)</label>
-                        <input type="file" class="form-control-file" id="cv" name="cv" required/>
-                    </div>
-					<div class="form-group">
-                        <label for="ktm">Kartu Tanda Mahasiswa / Surat Aktif Kuliah (Jpeg)</label>
-                        <input type="file" class="form-control-file" id="ktm" name="ktm" required/>
-                    </div>
-					<div class="form-group">
-                        <label for="sertif">Piagam Penghargaan (Zip)</label>
-                        <input type="file" class="form-control-file" id="sertif" name="sertif" required/>
-                    </div><br>
                     <div class="form-group">
-                        <input type="submit" name="daftar" id="daftar" class="btn btn-info btn-block" value="Daftar" />
+                        <input type="submit" name="login" id="login" class="btn btn-info btn-block" value="Login" />
                     </div>
                 </form>
             </div>
 </div>
-<div id="footerwrap">
+<div id="footerwrap" style="background-color: #1e5b87;">
 			<div class="container">
 				<div class="btt-wrapper fade-down"><a class="btt-link smoothScroll" href="#home"><i class="el-icon-chevron-up"></i></a></div>
 				<ul id="footer-social" class="fade-down">

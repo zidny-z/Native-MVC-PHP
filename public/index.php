@@ -38,6 +38,9 @@
       <script src="js/html5shiv.js"></script>
       <script src="js/respond.min.js"></script>
     <![endif]-->
+	<style>
+	body{background-color: #2980b9;}
+	</style>
   </head>
 
   <body data-spy="scroll" data-offset="0" data-target="#navbar-main">
@@ -120,9 +123,9 @@
 		</div>
 		
 		<!-- ==== ABOUT ==== -->
-		<div class="container" id="about" name="about">
+		<div class="container" id="about" name="about" style="color: white;">
 			<div class="row white">
-				<h1 class="fade-down centered">Tentang Kami</h1>
+				<h1 class="fade-down centered" style="color: white;">Tentang Kami</h1>
 				<hr>
 				
 				<div class="fade-up col-md-6">
@@ -167,7 +170,7 @@
 		<div class="container section" id="team" name="team">
 		<br>
 			<div class="row white centered">
-				<h1 class="fade-down centered">TESTIMONI PENERIMA</h1>
+				<h1 class="fade-down centered" style="color: white;">TESTIMONI PENERIMA</h1>
 				<hr class="fade-down title-mb">
 				<div class="col-md-4 ">
 					<div class="col-md-3 col-sm-3 col-xs-3 fade-down team-image-wrapper">
@@ -242,7 +245,7 @@
 		<div id="portfolio" name="portfolio">
 		<br>
 			<div class="row white">
-				<h1 class="fade-down centered">KEGIATAN PENERIMA BEASISWA</h1>
+				<h1 class="fade-down centered" style="color:white;">KEGIATAN PENERIMA BEASISWA</h1>
 				<hr class="fade-down title-mb">
 			</div><!-- /row -->
 			<div class="">
@@ -365,7 +368,7 @@
 		</section><!-- section -->
 		
 		
-		<div id="footerwrap">
+		<div id="footerwrap" style="background-color: #1e5b87;">
 			<div class="container">
 				<div class="btt-wrapper fade-down"><a class="btt-link smoothScroll" href="#home"><i class="el-icon-chevron-up"></i></a></div>
 				<ul id="footer-social" class="fade-down">
