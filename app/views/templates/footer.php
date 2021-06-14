@@ -1,5 +1,5 @@
 <!-- FOOTER -->
-		<div id="footerwrap" style="background-color: #1e5b87;">
+<div id="footerwrap" style="background-color: #1e5b87;">
 			<div class="container">
 				<div class="btt-wrapper fade-down"><a class="btt-link smoothScroll" href="#home"><i class="el-icon-chevron-up"></i></a></div>
 				<ul id="footer-social" class="fade-down">

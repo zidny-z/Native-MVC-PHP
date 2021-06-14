@@ -3,7 +3,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Donated.com - <?php echo $data['title']?></title>
+    <title>Donated.com <?= $data['title']; ?></title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.css" rel="stylesheet">
@@ -29,3 +29,4 @@
   </head>
 
   <body data-spy="scroll" data-offset="0" data-target="#navbar-main">
+  

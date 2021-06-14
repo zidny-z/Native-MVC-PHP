@@ -5,14 +5,28 @@ class App {
     protected $method = 'index';
     protected $params = [];
 
-    public function __construct()
+    public function __construct(){
     {
         $url = $this->parseURL();
-        var_dump($url);
+        // var_dump($url);
     }
 
+    require_once '../app/controllers/' . $this->controller . '.php';
+    $this->controller = new $this->controller;
+
+
+    //method
+    // if ( isset($url[1]) ) {
+    //     if ( method_exists( $this->controller, $url[1]) ) {
+    //         $this->method = $url[1];
+    //         unset($url[1]);}
+    //     }
+    }
+
+    
     public function parseURL(){
-        if( isset($_GET['url'])){
+        if( isset($_GET['url']))
+        {
             $url = rtrim($_GET['url'],'/');
             $url = filter_var($url, FILTER_SANITIZE_URL);
             $url = explode('/',$url);
