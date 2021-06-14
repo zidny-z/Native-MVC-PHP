@@ -6,12 +6,12 @@
 	  		 		<p class="animated slideInLeft">Daftarkan diri anda untuk mendapatkan beasiswa</p>
 	  		 		<p class="animated slideInRight">Di sini kami ada untukmu</p>
 	  		 		<a href="#about" class="btn homebtn smoothScroll">Pelajari<i class="el-icon-chevron-down homeicon"></i></a>
-	  		</header>	    
+	  		</header>
 	    </div><!-- /headerwrap -->
 
 		<!--  SERVICES -->
 		<div class="greywrap">
-			<div class="container" id="about" name="about">			
+			<div class="container" id="about" name="about">
 				<div class="row">
 					<div class="col-md-4 col-sm-4 col-xs-6 callout">
 						<div class="col-md-3 service-icon-wrapper img-circle">
@@ -22,7 +22,7 @@
 							<p>Kami berusaha semaksimal mungkin untuk segera menyeleksi dan memberikan informasi lebih lanjut terkait pendaftaran beasiswa.</p>
 						</div>
 					</div>
-						
+
 					<div class="col-md-4 col-sm-4 col-xs-6 callout">
 						<div class="col-md-3 service-icon-wrapper img-circle">
 							<i class="icon el-icon-star"></i>
@@ -32,7 +32,7 @@
 							<p>Kami akan memilih siswa/mahasiswa yang terbaik untuk mendapatkan beasiswa sesuai dengan kondisi hidup pendaftar.</p>
 						</div>
 					</div>
-					
+
 					<div class="col-md-4 col-sm-4 col-xs-6 callout">
 						<div class="col-md-3 service-icon-wrapper img-circle">
 							<i class="icon el-icon-user"></i>
@@ -43,27 +43,27 @@
 								<p>Penyeleksian beasiswa dilakukan oleh selektor yang berpengalaman, professional dan tersertifikasi sehingga data data yang terinput akan diseleksi dengan sebenar-benarnya.</p>
 							</div>
 						</div>
-					</div>	
+					</div>
 				</div>
 			</div>
 		</div>
-		
+
 		<!-- ==== ABOUT ==== -->
 		<div class="container" id="about" name="about" style="color: white;">
 			<div class="row white">
 				<h1 class="fade-down centered" style="color: white;">Tentang Kami</h1>
 				<hr>
-				
+
 				<div class="fade-up col-md-6">
 					<p><b>Donated.com</b> didirikan oleh PT Solusi Maju Indonesia yang bertujuan untuk memajukan kualitas generasi muda Indonesia. Donasi yang terkumpulkan merupakan sebagian upah dari Founder Donated.com dan beberapa karyawan yang berbuka hati untuk berbagi demi kecerdasan bangsa Indonesia.</p>
 				</div><!-- col-md-6 -->
-				
+
 				<div class="fade-up col-md-6">
 					<p>Yang membedakan <b>Donated.com</b> dengan program beasiswa lain adalah, selain mendapatkan dana beasiswa selama satu tahun, Beswan Djarum (sebutan bagi penerima program Djarum Beasiswa Plus) juga mendapatkan berbagai macam pelatihan soft skills (keterampilan lunak) mengembangkan wawasan kebangsaan, membentuk karakter serta melatih kepemimpinan. </p>
 				</div><!-- col-md-6 -->
 			</div><!-- row -->
 		</div><!-- container -->
-  		
+
 
 		<!-- ==== SECTION DIVIDER2 -->
 		<section class="section-divider textdivider divider2">
@@ -90,7 +90,7 @@
 		</section><!-- section -->
 
 
-		
+
 
 		<!-- ==== TEAM MEMBERS ==== -->
 		<div class="container section" id="team" name="team">
@@ -110,7 +110,7 @@
 						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent in tortor ac diam pretium interdum eget sit amet leo. Nam bibendum auctor leo et posuere. Morbi ut dolor interdum, convallis urna eget, dignissim est. Nunc mattis at purus tristique tincidunt. Nulla dapibus justo ac lacus mattis mollis. Integer pulvinar efficitur ex vel luctus.</p>
 					</div>
 				</div>
-				
+
 				<div class="col-md-4">
 					<div class="col-md-3 col-sm-3 col-xs-3 fade-down team-image-wrapper">
 						<img class="img team-image" src="images/team02.jpg" alt="">
@@ -123,7 +123,7 @@
 						<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur non elit bibendum, lobortis augue ac, dictum neque. Aenean dapibus sagittis arcu, sed sodales urna vulputate et. Aliquam erat volutpat. Sed aliquet, magna vitae convallis accumsan, tortor lorem ultricies magna, vitae sagittis turpis turpis ac orci. Duis feugiat nibh et venenatis egestas.</p>
 					</div>
 				</div>
-				
+
 				<div class="col-md-4">
 					<div class="col-md-3 col-sm-3 col-xs-3 fade-down team-image-wrapper">
 						<img class="img team-image" src="images/team03.jpg" alt="">
@@ -136,7 +136,7 @@
 						<p>Morbi tincidunt interdum viverra. Sed dignissim, lacus ut congue feugiat, felis purus fringilla diam, mattis sollicitudin ante velit eu justo. Donec tempus risus sed eros maximus sodales eget a leo. Nunc lectus est, vestibulum at elementum eu, bibendum ac sem. Morbi felis arcu, eleifend ultricies nulla dictum, lacinia vehicula quam. Nullam vel eleifend sem, volutpat ultrices dui. Praesent gravida bibendum venenatis.</p>
 					</div>
 				</div>
-				
+
 			</div><!-- row -->
 		</div><!-- container -->
 
@@ -151,13 +151,13 @@
 						<h2>Tertarik untuk mendapatkan beasiswa?</h2>
 						<p>Bukan sekedar beasiswa, anda juga mendapatkan pelatihan dan juga laptop bila sesuai kriteria kami. Nullam elit nunc, fringilla vel posuere consequat, pulvinar id augue. Vivamus vel rutrum nibh. Nunc mollis molestie orci, at auctor nibh condimentum eu. Duis ornare purus odio, vel vulputate arcu condimentum quis. Proin condimentum nibh et ex scelerisque, et aliquam massa dictum. Etiam porttitor nec massa non fermentum.</p>
 						<p><a class="btn btn-success">Daftar</a></p>
-					</div>					
+					</div>
 				</div><!-- row -->
 			</div>
 			<br>
 			<br>
 		</div><!-- greywrap -->
-		
+
 		<!-- ==== SECTION DIVIDER3 -->
 		<section class="section-divider textdivider divider3">
 			<div class="container">
@@ -166,7 +166,7 @@
 				<p class="fade-up">"Belajarlah kamu semua, dan mengajarlah kamu semua, dan hormatilah guru-gurumu, serta berlaku baiklah terhadap orang yang mengajarkanmu." (HR Tabrani)</p>
 			</div><!-- container -->
 		</section><!-- section -->
-		
+
 		<!-- ==== PORTFOLIO ==== -->
 		<div id="portfolio" name="portfolio">
 		<br>
@@ -175,8 +175,8 @@
 				<hr class="fade-down title-mb">
 			</div><!-- /row -->
 			<div class="">
-			<div class="">	
-				
+			<div class="">
+
 				<div id="portfolio-carousel">
 					<!-- PORTFOLIO IMAGE 1 -->
 					<div class="fade-up col-md-4 ">
@@ -190,8 +190,8 @@
 								</figcaption><!-- /figcaption -->
 							</figure><!-- /figure -->
 				    	</div><!-- /grid-mask -->
-					</div><!-- /col -->					
-					
+					</div><!-- /col -->
+
 					<!-- PORTFOLIO IMAGE 2 -->
 					<div class="fade-up col-md-4">
 				    	<div class="grid mask">
@@ -205,7 +205,7 @@
 							</figure><!-- /figure -->
 				    	</div><!-- /grid-mask -->
 					</div><!-- /col -->
-					
+
 					<!-- PORTFOLIO IMAGE 3 -->
 					<div class="fade-up col-md-4">
 				    	<div class="grid mask">
@@ -233,7 +233,7 @@
 							</figure><!-- /figure -->
 				    	</div><!-- /grid-mask -->
 					</div><!-- /col -->
-					
+
 					<!-- PORTFOLIO IMAGE 5 -->
 					<div class="fade-up col-md-4">
 				    	<div class="grid mask">
@@ -247,7 +247,7 @@
 							</figure><!-- /figure -->
 				    	</div><!-- /grid-mask -->
 					</div><!-- /col -->
-					
+
 					<!-- PORTFOLIO IMAGE 6 -->
 					<div class="fade-up col-md-4">
 				    	<div class="grid mask">
@@ -255,7 +255,7 @@
 								<img class="img-responsive" src="images/folio06.jpg" alt="">
 								<figcaption>
 									<h5>DIKLAT KEBANGSAAN</h5>
-									<a href="single-project.html" class="btn btn-primary btn-lg"><i class="el-icon-link"></i></a>
+									<a href="<?= BASEURL;?>/kegiatan/diklat_kebangsaan" class="btn btn-primary btn-lg"><i class="el-icon-link"></i></a>
 									<a href="images/folio01.jpg" class="btn btn-primary btn-lg launch-lb"><i class="el-icon-zoom-in"></i></a>
 								</figcaption><!-- /figcaption -->
 							</figure><!-- /figure -->
@@ -264,8 +264,8 @@
 
 
 
-			</div><!-- /carousel -->	
-			</div><!-- /row -->			
+			</div><!-- /carousel -->
+			</div><!-- /row -->
 
 		</div><!-- /row -->
 	</div><!-- /container -->
@@ -278,9 +278,9 @@
 				<p class="fade-up">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent in tortor ac diam pretium interdum eget sit amet leo. Nam bibendum auctor leo et posuere.</p>
 			</div><!-- container -->
 		</section><!-- section -->
-		
 
-		
+
+
 		<!-- ==== SECTION DIVIDER6 ==== -->
 		<section class="section-divider textdivider divider6">
 			<div class="container">
