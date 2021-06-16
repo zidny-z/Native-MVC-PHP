@@ -6,7 +6,7 @@ class Login extends Controller {
         $data['title'] = 'Login';
         $this->view('templates/header', $data);
         $this->view('templates/navbar_non_home');
-        $this->view('home/index');
+        $this->view('login/index');
         $this->view('templates/footer');
     }
 
