@@ -6,8 +6,19 @@ class Daftar extends Controller {
         $data['title'] = 'Daftar';
         $this->view('templates/header', $data);
         $this->view('templates/navbar_non_home');
-        $this->view('home/index');
+        $this->view('daftar/index');
         $this->view('templates/footer');
+    }
+
+    public function tambah()
+    {
+        if ( $this->model('daftar')->tambahData($_POST) > 0 ) {
+            header('Location: ' . BASEURL . '/contact');
+            exit;
+        } else {
+            header('Location: ' . BASEURL . '/donation');
+            exit;
+        }
     }
 
 }
