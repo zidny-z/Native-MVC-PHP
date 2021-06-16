@@ -1,6 +1,6 @@
 <?php
 
-define('BASEURL', 'http://native-mvc-php.com:85/public');
+define('BASEURL', 'http://localhost/Native-MVC-PHP/public');
 
 //DB
 define('DB_HOST', 'localhost');

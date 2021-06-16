@@ -4,7 +4,7 @@
             <br><br><br><br>
             <div class="panel panel-default">
                 <div class="panel-body">
-                <form method="POST" >
+                <form action="<?= BASEURL; ?>/login/cekLogin" method="POST" >
                     <div class="form-group">
                         <label for="username">Username</label>
                         <input type="text" name="username" id="username" class="form-control" required/>
