@@ -6,12 +6,12 @@
     <title>Donated.com - <?= $data['title']; ?></title>
 
     <!-- Bootstrap core CSS -->
-    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="<?= BASEURL; ?>/css/bootstrap.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="css/style.css" rel="stylesheet">
-    <link rel="stylesheet" href="css/elusive-webfont.css">
-    <link href="css/animate.css" rel="stylesheet">
+    <link href="<?= BASEURL; ?>/css/style.css" rel="stylesheet">
+    <link rel="stylesheet" href="<?= BASEURL; ?>/css/elusive-webfont.css">
+    <link href="<?= BASEURL; ?>/css/animate.css" rel="stylesheet">
 
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,700,300italic,400italic' rel='stylesheet' type='text/css'>
 

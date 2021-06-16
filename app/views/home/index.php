@@ -150,7 +150,7 @@
 					<div class="col-md-6 fade-down" id="daftarbeasiswa">
 						<h2>Tertarik untuk mendapatkan beasiswa?</h2>
 						<p>Bukan sekedar beasiswa, anda juga mendapatkan pelatihan dan juga laptop bila sesuai kriteria kami. Nullam elit nunc, fringilla vel posuere consequat, pulvinar id augue. Vivamus vel rutrum nibh. Nunc mollis molestie orci, at auctor nibh condimentum eu. Duis ornare purus odio, vel vulputate arcu condimentum quis. Proin condimentum nibh et ex scelerisque, et aliquam massa dictum. Etiam porttitor nec massa non fermentum.</p>
-						<p><a class="btn btn-success">Daftar</a></p>
+						<p><a href="<?= BASEURL; ?>/daftar" class="btn btn-success">Daftar</a></p>
 					</div>
 				</div><!-- row -->
 			</div>
@@ -185,7 +185,7 @@
 								<img class="img-responsive" src="images/folio01.jpg" alt="">
 								<figcaption>
 									<h5>PEDULI BANGSA</h5>
-									<a href="single-project.html" class="btn btn-primary btn-lg"><i class="el-icon-link"></i></a>
+									<a href="<?= BASEURL; ?>/kegiatan/kegiatan1" class="btn btn-primary btn-lg"><i class="el-icon-link"></i></a>
 									<a href="images/folio01.jpg" class="btn btn-primary btn-lg launch-lb"><i class="el-icon-zoom-in"></i></a>
 								</figcaption><!-- /figcaption -->
 							</figure><!-- /figure -->
@@ -199,7 +199,7 @@
 								<img class="img-responsive" src="images/folio02.jpg" alt="">
 								<figcaption>
 									<h5>DIKLAT KEPEMIMPINAN</h5>
-									<a href="single-project.html" class="btn btn-primary btn-lg"><i class="el-icon-link"></i></a>
+									<a href="<?= BASEURL; ?>/kegiatan/kegiatan2" class="btn btn-primary btn-lg"><i class="el-icon-link"></i></a>
 									<a href="images/folio01.jpg" class="btn btn-primary btn-lg launch-lb"><i class="el-icon-zoom-in"></i></a>
 								</figcaption><!-- /figcaption -->
 							</figure><!-- /figure -->
@@ -213,7 +213,7 @@
 								<img class="img-responsive" src="images/folio03.jpg" alt="">
 								<figcaption>
 									<h5>DONATED MENGAJAR</h5>
-									<a href="single-project.html" class="btn btn-primary btn-lg"><i class="el-icon-link"></i></a>
+									<a href="<?= BASEURL; ?>/kegiatan/kegiatan3" class="btn btn-primary btn-lg"><i class="el-icon-link"></i></a>
 									<a href="images/folio01.jpg" class="btn btn-primary btn-lg launch-lb"><i class="el-icon-zoom-in"></i></a>
 								</figcaption><!-- /figcaption -->
 							</figure><!-- /figure -->
@@ -227,7 +227,7 @@
 								<img class="img-responsive" src="images/folio04.jpg" alt="">
 								<figcaption>
 									<h5>KAJIAN INTELEKTUAL</h5>
-									<a href="single-project.html" class="btn btn-primary btn-lg"><i class="el-icon-link"></i></a>
+									<a href="<?= BASEURL; ?>/kegiatan/kegiatan4" class="btn btn-primary btn-lg"><i class="el-icon-link"></i></a>
 									<a href="images/folio01.jpg" class="btn btn-primary btn-lg launch-lb"><i class="el-icon-zoom-in"></i></a>
 								</figcaption><!-- /figcaption -->
 							</figure><!-- /figure -->
@@ -241,7 +241,7 @@
 								<img class="img-responsive" src="images/folio05.jpg" alt="">
 								<figcaption>
 									<h5>DIKLAT WIRAUSAHA</h5>
-									<a href="single-project.html" class="btn btn-primary btn-lg"><i class="el-icon-link"></i></a>
+									<a href="<?= BASEURL; ?>/kegiatan/kegiatan5" class="btn btn-primary btn-lg"><i class="el-icon-link"></i></a>
 									<a href="images/folio01.jpg" class="btn btn-primary btn-lg launch-lb"><i class="el-icon-zoom-in"></i></a>
 								</figcaption><!-- /figcaption -->
 							</figure><!-- /figure -->
@@ -255,7 +255,7 @@
 								<img class="img-responsive" src="images/folio06.jpg" alt="">
 								<figcaption>
 									<h5>DIKLAT KEBANGSAAN</h5>
-									<a href="<?= BASEURL;?>/kegiatan/diklat_kebangsaan" class="btn btn-primary btn-lg"><i class="el-icon-link"></i></a>
+									<a href="<?= BASEURL; ?>/kegiatan/kegiatan6" class="btn btn-primary btn-lg"><i class="el-icon-link"></i></a>
 									<a href="images/folio01.jpg" class="btn btn-primary btn-lg launch-lb"><i class="el-icon-zoom-in"></i></a>
 								</figcaption><!-- /figcaption -->
 							</figure><!-- /figure -->

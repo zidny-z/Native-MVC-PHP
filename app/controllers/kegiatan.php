@@ -1,7 +1,7 @@
 <?php
 
 class Kegiatan extends Controller {
-    public function kegiaan1()
+    public function kegiatan1()
     {
         $data['title'] = 'Peduli Bangsa';
         $this->view('templates/header', $data);
@@ -10,7 +10,7 @@ class Kegiatan extends Controller {
         $this->view('templates/footer');
     }
 
-    public function kegiaan2()
+    public function kegiatan2()
     {
         $data['title'] = 'Diklat Kepemimpinan';
         $this->view('templates/header', $data);
@@ -19,7 +19,7 @@ class Kegiatan extends Controller {
         $this->view('templates/footer');
     }
 
-    public function kegiaan3()
+    public function kegiatan3()
     {
         $data['title'] = 'Donated Mengajar';
         $this->view('templates/header', $data);
@@ -28,7 +28,7 @@ class Kegiatan extends Controller {
         $this->view('templates/footer');
     }
 
-    public function kegiaan4()
+    public function kegiatan4()
     {
         $data['title'] = 'Kajian Intelektual';
         $this->view('templates/header', $data);
@@ -37,7 +37,7 @@ class Kegiatan extends Controller {
         $this->view('templates/footer');
     }
 
-    public function kegiaan5()
+    public function kegiatan5()
     {
         $data['title'] = 'Diklat Wirausaha';
         $this->view('templates/header', $data);
@@ -46,7 +46,7 @@ class Kegiatan extends Controller {
         $this->view('templates/footer');
     }
 
-    public function kegiaan6()
+    public function kegiatan6()
     {
         $data['title'] = 'Diklat Kebangsaan';
         $this->view('templates/header', $data);

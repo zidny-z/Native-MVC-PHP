@@ -4,7 +4,7 @@
             <div class="kegiatan">
                 <div class="jumbotron jumbotron-fluid">
                     <div class="container">
-                        <img src="images/folio1.jpg" class="img-fluid" alt="Peduli Bangsa" style="max-width: 800px;">
+                        <img src="<?= BASEURL; ?>/images/folio1.jpg" class="img-fluid" alt="Peduli Bangsa" style="max-width: 800px;">
                         <h1 class="display-4">Peduli Bangsa</h1>
                         <p class="lead">Peduli Bangsa adalah kegiatan yang memberikan kontribusi nyata penerima beasiswa untuk bangsa Indonesia</p>
                     </div>

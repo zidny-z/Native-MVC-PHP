@@ -6,8 +6,22 @@ class Login extends Controller {
         $data['title'] = 'Login';
         $this->view('templates/header', $data);
         $this->view('templates/navbar_non_home');
-        $this->view('home/index');
+        $this->view('login/index');
         $this->view('templates/footer');
+    }
+
+    public function cekLogin()
+    {
+        $user = $this->model('databaseLogin')->selectUser();
+        if ( $user['username'] === $_POST['username'] and $user['password'] === $_POST['password']  ) {
+            session_start();
+            $_SESSION['admin'] = 'True';
+            header('Location: ' . BASEURL .'/manage');
+            exit;
+        } else {
+            header('Location: ' . BASEURL .'/login');
+            exit;
+        }
     }
 
 }
