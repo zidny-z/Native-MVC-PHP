@@ -4,7 +4,7 @@
             <div class="kegiatan">
                 <div class="jumbotron jumbotron-fluid">
                     <div class="container">
-                        <img src="images/folio02.jpg" class="img-fluid" alt="Diklat Kepemimpinan" style="max-width: 800px;">
+                        <img src="<?= BASEURL; ?>/images/folio02.jpg" class="img-fluid" alt="Diklat Kepemimpinan" style="max-width: 800px;">
                         <h1 class="display-4">Diklat Kepemimpinan</h1>
                         <p class="lead">Diklat Kepemimpinan adalah kegiatan penerima beasiswa untuk meningkatkan rasa kreatif berwirausaha</p>
                     </div>

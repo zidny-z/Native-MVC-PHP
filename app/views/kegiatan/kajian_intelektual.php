@@ -4,7 +4,7 @@
             <div class="kegiatan">
                 <div class="jumbotron jumbotron-fluid">
                     <div class="container">
-                        <img src="images/folio04.jpg" class="img-fluid" alt="Kajian Intelektual" style="max-width: 800px;">
+                        <img src="<?= BASEURL; ?>/images/folio04.jpg" class="img-fluid" alt="Kajian Intelektual" style="max-width: 800px;">
                         <h1 class="display-4">Kajian Intelektual</h1>
                         <p class="lead">Kajian Intelektual adalah kegiatan penerima beasiswa untuk menambah wawasan dan berpikir kritis</p>
                     </div>

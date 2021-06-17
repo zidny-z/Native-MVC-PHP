@@ -4,7 +4,7 @@
             <div class="kegiatan">
                 <div class="jumbotron jumbotron-fluid">
                     <div class="container">
-                        <img src="images/folio05.jpg" class="img-fluid" alt="Diklat Wirausaha" style="max-width: 800px;">
+                        <img src="<?= BASEURL; ?>/images/folio05.jpg" class="img-fluid" alt="Diklat Wirausaha" style="max-width: 800px;">
                         <h1 class="display-4">Diklat Wirausaha</h1>
                         <p class="lead">Diklat Wirausaha adalah kegiatan penerima beasiswa untuk meningkatkan rasa kreatif berwirausaha</p>
                     </div>

@@ -106,8 +106,8 @@
 						<a href="#" class="team-social flickr"><i class="el-icon-flickr"></i></a> -->
 					</div>
 					<div class="col-md-9 col-sm-9 col-xs-9 fade-up team-info">
-						<h4>Dhia Hayyu Syahira</h4>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent in tortor ac diam pretium interdum eget sit amet leo. Nam bibendum auctor leo et posuere. Morbi ut dolor interdum, convallis urna eget, dignissim est. Nunc mattis at purus tristique tincidunt. Nulla dapibus justo ac lacus mattis mollis. Integer pulvinar efficitur ex vel luctus.</p>
+						<h4>Diah Miftakhul</h4>
+						<p>Senang sekali rasanya bisa menerima beasiswa ini, saya memiliki banyak pengalaman dan koneksi, selain itu saya juga dapat belajr banyak dari beasiswa ini termasuk pelatihan dan fasilitas - fasilitas yang diberi pihak beasiswa.</p>
 					</div>
 				</div>
 
@@ -120,7 +120,7 @@
 					</div>
 					<div class="col-md-9 col-sm-9 col-xs-9 fade-up team-info">
 						<h4>Iqbal Kurniawan</h4>
-						<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur non elit bibendum, lobortis augue ac, dictum neque. Aenean dapibus sagittis arcu, sed sodales urna vulputate et. Aliquam erat volutpat. Sed aliquet, magna vitae convallis accumsan, tortor lorem ultricies magna, vitae sagittis turpis turpis ac orci. Duis feugiat nibh et venenatis egestas.</p>
+						<p>Alhamdulillah saya tak hanya bisa membayar ukt dengan uang beasiswa tapi saya juga bisa mendapatkan laptop gratis dimana sangat membantu kegiatan kuliah saya di universitas.</p>
 					</div>
 				</div>
 
@@ -133,7 +133,7 @@
 					</div>
 					<div class="col-md-9 col-sm-9 col-xs-9 fade-up team-info">
 						<h4>Zainul Ikhsan</h4>
-						<p>Morbi tincidunt interdum viverra. Sed dignissim, lacus ut congue feugiat, felis purus fringilla diam, mattis sollicitudin ante velit eu justo. Donec tempus risus sed eros maximus sodales eget a leo. Nunc lectus est, vestibulum at elementum eu, bibendum ac sem. Morbi felis arcu, eleifend ultricies nulla dictum, lacinia vehicula quam. Nullam vel eleifend sem, volutpat ultrices dui. Praesent gravida bibendum venenatis.</p>
+						<p>Pelayanan beasiswa bagus, setiap pihak beasiswa professional dan mengerti skill mahasiswa sehingga kita diberi apa yang kita minati dan bakat sehingga peningkatan skill kita makin bagus.</p>
 					</div>
 				</div>
 
@@ -149,7 +149,7 @@
 					</div>
 					<div class="col-md-6 fade-down" id="daftarbeasiswa">
 						<h2>Tertarik untuk mendapatkan beasiswa?</h2>
-						<p>Bukan sekedar beasiswa, anda juga mendapatkan pelatihan dan juga laptop bila sesuai kriteria kami. Nullam elit nunc, fringilla vel posuere consequat, pulvinar id augue. Vivamus vel rutrum nibh. Nunc mollis molestie orci, at auctor nibh condimentum eu. Duis ornare purus odio, vel vulputate arcu condimentum quis. Proin condimentum nibh et ex scelerisque, et aliquam massa dictum. Etiam porttitor nec massa non fermentum.</p>
+						<p>Bukan sekedar beasiswa, anda juga mendapatkan pelatihan dan juga laptop bila sesuai kriteria kami. Kamu harus mampu menjelaskan sekaligus membuktikan kalau diri kamu memiliki latar belakang pendidikan yang baik. Caranya adalah dengan memberitahukan bahwa kamu menekuni program studi baik secara formal, informal maupun non-formal.</p>
 						<p><a href="<?= BASEURL; ?>/daftar" class="btn btn-success">Daftar</a></p>
 					</div>
 				</div><!-- row -->
@@ -275,7 +275,7 @@
 			<div class="container">
 				<h1 class="fade-down">SEMUA ORANG BERHAK BELAJAR</h1>
 				<hr>
-				<p class="fade-up">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent in tortor ac diam pretium interdum eget sit amet leo. Nam bibendum auctor leo et posuere.</p>
+				<p class="fade-up">Pasal 60: “Setiap anak berhak untuk memperoleh pendidikan dan pengajaran dalam rangka pengembangan pribadinya sesuai dengan minat, bakat, dan tingkat kecerdasannya”.</p>
 			</div><!-- container -->
 		</section><!-- section -->
 

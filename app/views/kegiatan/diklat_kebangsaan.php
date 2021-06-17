@@ -4,7 +4,7 @@
             <div class="kegiatan">
                 <div class="jumbotron jumbotron-fluid">
                     <div class="container">
-                        <img src="images/folio06.jpg" class="img-fluid" alt="Diklat Kebangsaan" style="max-width: 800px;">
+                        <img src="<?= BASEURL; ?>/images/folio06.jpg" class="img-fluid" alt="Diklat Kebangsaan" style="max-width: 800px;">
                         <h1 class="display-4">Diklat Kebangsaan</h1>
                         <p class="lead">Diklat Kebangsaan adalah kegiatan penerima beasiswa untuk meningkatkan rasa patriotisme untuk bangsa Indonesia</p>
                     </div>

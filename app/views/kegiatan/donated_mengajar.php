@@ -4,7 +4,7 @@
             <div class="kegiatan">
                 <div class="jumbotron jumbotron-fluid">
                     <div class="container">
-                        <img src="images/folio03.jpg" class="img-fluid" alt="Donated Mengajar" style="max-width: 800px;">
+                        <img src="<?= BASEURL; ?>/images/folio03.jpg" class="img-fluid" alt="Donated Mengajar" style="max-width: 800px;">
                         <h1 class="display-4">Donated Mengajar</h1>
                         <p class="lead">Donated Mengajar adalah kegiatan penerima beasiswa untuk menambah wawasan dan berpikir kritis</p>
                     </div>

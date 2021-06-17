@@ -14,6 +14,8 @@
     <link href="<?= BASEURL; ?>/css/animate.css" rel="stylesheet">
 
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,700,300italic,400italic' rel='stylesheet' type='text/css'>
+    <!-- icon -->
+    <link rel="icon" href="<?= BASEURL; ?>/images/icon.png"  type="image/png" >
 
     <script src="js/jquery.min.js"></script>
 	<script type="text/javascript" src="js/modernizr.custom.js"></script>
