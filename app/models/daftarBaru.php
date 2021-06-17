@@ -2,7 +2,7 @@
 
 class daftarBaru
 {
-    private $table = 'pendaftar';   
+    private $table = 'pendaftar';
     private $db;
 
     public function __construct()
@@ -13,10 +13,11 @@ class daftarBaru
     public function tambahData($data)
     {
         $query = "INSERT INTO pendaftar
-                    VALUES 
-                    ('', :email, :nama, :nim, :prodi, :pt, :noHP, :cv, :zip, '')";
+                    VALUES
+                    (id, :email, :nama, :nim, :prodi, :pt, :noHP, :cv, :zip, '')";
 
         $this->db->query($query);
+        $this->db->bind('id', null);
         $this->db->bind('email', htmlspecialchars($data['email']));
         $this->db->bind('nama', htmlspecialchars($data['nama']));
         $this->db->bind('nim', htmlspecialchars($data['nim']));

@@ -1,6 +1,6 @@
 <br><br><br>
 <div class="container">
-<h1 class="text-center" style="color: white;">Manajemen Data</h1><br>
+<h1 class="text-center" style="color: white;">Data Penerima</h1><br>
 <table class="table" style="color: white;">
   <thead class="thead-dark">
     <tr>

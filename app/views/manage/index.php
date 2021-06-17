@@ -1,5 +1,6 @@
 <br><br><br>
 <div class="container">
+<a href="<?= BASEURL; ?>/manage/logout"><input type="submit" name="logout" id="logout" class="btn btn-warning" value="Logout"/></a></li>
 <h1 class="text-center" style="color: white;">Manajemen Data</h1><br>
 <table class="table" style="color: white;">
   <thead class="thead-dark">

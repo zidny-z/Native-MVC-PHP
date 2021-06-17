@@ -13,7 +13,7 @@
 		            <li><a href="<?= BASEURL; ?>/#home" class="smoothScroll">Home</a></li>
 					<li> <a href="<?= BASEURL; ?>/#about" class="smoothScroll">Tentang Kami</a></li>
 					<li> <a href="<?= BASEURL; ?>/#team" class="smoothScroll">Testimoni</a></li>
-					<li> <a href="<?= BASEURL; ?>/penerima" class="smoothScroll">Pengumuman</a></li>
+          <li> <a href="#" class="smoothScroll">Pengumuman</a></li>
 					<li> <a href="<?= BASEURL; ?>/#portfolio" class="smoothScroll">Kegiatan</a></li>
 					<li> <a href="<?= BASEURL; ?>/#daftarbeasiswa" class="smoothScroll">Apply</a></li>
 				</ul>

@@ -19,7 +19,7 @@ class Manage extends Controller {
 
     public function drop($daftarID)
     {
-        
+
         if ( $this->model('databasePendaftar')->dropData($daftarID) > 0 ) {
             header('Location: ' . BASEURL .'/manage');
             exit;
@@ -30,7 +30,7 @@ class Manage extends Controller {
     }
     public function acc($daftarID)
     {
-        
+
         if ( $this->model('databasePendaftar')->updateData($daftarID) > 0 ) {
             header('Location: ' . BASEURL .'/manage');
             exit;
@@ -41,6 +41,7 @@ class Manage extends Controller {
     }
     public function logout()
     {
+        session_unset();
         session_destroy();
         header('Location: ' . BASEURL);
     }

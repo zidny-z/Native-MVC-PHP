@@ -13,10 +13,11 @@ class Contact_model
     public function tambahDataContact($data)
     {
         $query = "INSERT INTO pendaftar
-                    VALUES 
-                    ('', :nama, :nim, :prodi, :pt, :noHP, :cv, :ktm, :zip)";
+                    VALUES
+                    (:id, :nama, :nim, :prodi, :pt, :noHP, :cv, :ktm, :zip)";
 
         $this->db->query($query);
+        $this->db->bind('id', null);
         $this->db->bind('nama', htmlspecialchars($data['nama']));
         $this->db->bind('nim', htmlspecialchars($data['nim']));
         $this->db->bind('prodi', htmlspecialchars($data['prodi']));
