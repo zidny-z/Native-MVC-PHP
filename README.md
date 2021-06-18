@@ -30,8 +30,7 @@ Website penyedia beasiswa untuk mahasiswa seluruh Indonesia
 ## Instalasi (Requirements)
 
 ```bash
-> xampp
-> python
+> xampp/laragon
 > set Database (My SQL)
 ```
 
