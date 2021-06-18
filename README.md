@@ -1,5 +1,5 @@
-# Burning-Heroes
-Aplikasi Game Berbasis Strategi yang dikembangkan menggunakan python 3 dan berbasi GUI 
+# Donated.com
+Website penyedia beasiswa untuk mahasiswa seluruh Indonesia
 
 ## Authors
 <p align="left">
