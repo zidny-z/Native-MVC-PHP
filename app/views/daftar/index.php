@@ -39,7 +39,7 @@
                         <input type="text" class="form-control" id="zip" name="zip" required/>
                     </div><br>
                     <div class="form-group">
-                        <input type="submit" name="daftar" id="daftar" class="btn btn-info btn-block" value="Daftar" />
+                        <input type="submit" name="daftar" id="daftar" class="btn btn-info btn-block" value="Daftar" onclick="return confirm('Yakin?')"/>
                     </div>
                 </form>
             </div>

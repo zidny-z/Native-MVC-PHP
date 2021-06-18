@@ -55,7 +55,14 @@ class databasePendaftar
 
     }
 
-
+    public function dropData($daftarID)
+    {
+        $query = "DELETE FROM `pendaftar` WHERE `pendaftar`.`daftarID` = :daftarID";
+        $this->db->query($query);
+        $this->db->bind('daftarID', $daftarID);
+        $this->db->execute();
+        return $this->db->rowCount();
+    }
 
 
 }
